@@ -1,0 +1,18 @@
+# Build & deps
+/build/
+/cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+_deps/
+*.o
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/

@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.vert linguist-language=GLSL
+*.frag linguist-language=GLSL
